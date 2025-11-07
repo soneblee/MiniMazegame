@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 17387101867fe4c24bed64cf177baf52
+  productGUID: 5881cf8959ca443bc94027b674e14ba9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -666,10 +666,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9c392aea-86e8-4eb2-bd83-b351d7f4fd4c
+  cloudProjectId: 56426fcc-dee6-4132-ac6f-e09125e3ea8f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MiniMazegame
+  projectName: MiniMazegame 2025-11-07_23-21-22
   organizationId: eblee2979
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
