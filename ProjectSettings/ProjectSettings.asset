@@ -890,12 +890,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 56426fcc-dee6-4132-ac6f-e09125e3ea8f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Casual 2D Game
+  projectName: MiniMazegame 2025-11-07_23-21-22
   organizationId: eblee2979
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
