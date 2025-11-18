@@ -6,7 +6,7 @@ public class GetItem : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Destroy(gameObject);
         ItemSound.GetItemSound();
+        Destroy(gameObject);
     }
 }
