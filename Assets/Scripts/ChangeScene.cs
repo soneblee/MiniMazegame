@@ -12,6 +12,18 @@ public class ChangeScene : MonoBehaviour
             case "Start":
                 SceneManager.LoadScene("MapScene");
                 break;
+            case "StageButton1":
+                SceneManager.LoadScene("stage1");
+                break;
+            case "StageButton2":
+                SceneManager.LoadScene("stage2");
+                break;
+            case "StageButton3":
+                SceneManager.LoadScene("stage3");
+                break;
+            case "RecipeBook":
+                SceneManager.LoadScene("Recipe");
+                break;
         }
     }
 }
