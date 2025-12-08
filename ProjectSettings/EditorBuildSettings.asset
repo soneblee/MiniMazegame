@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/2D Casual Game Maze Template/Scenes/GameScene.unity
+    path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 0751a0eb45a6442f49ea48170c52cd1e
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: a72a064820b1949d99dbef7a953cc6b6
   m_configObjects: {}
